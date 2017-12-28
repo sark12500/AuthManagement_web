@@ -1,4 +1,4 @@
-# AuthManagement_Web_ForntEnd
+# AuthManagement_Web_FrontEnd
 
 Basic feature list:
 
